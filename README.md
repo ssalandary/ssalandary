@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ssalandary/ssalandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Salma, a senior studying Computer Science at UCLA!
 
-Here are some ideas to get you started:
+Currently interested in:
+- Windows internals and reverse engineering
+- Game hacking
+- Symbolic and concolic execution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More about me:
+- 🔭 I'm currently working on developing cybersecurity education and community at UCLA
+- 📫 How to reach me: ssalandary@gmai.com
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> LinkedIn: https://www.linkedin.com/in/salma-alandary/
+- <img src="https://pbs.twimg.com/profile_images/2189766987/ctftime-logo-avatar_400x400.png" width=20px /> CTFtime: https://ctftime.org/user/145716
+- 😄 Pronouns: she/her
+- ⚡ Fun Fact: I produce music on the side
