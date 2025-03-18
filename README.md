@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Salma, a Master's Sutdent studying Computer Science at UCLA!
+I'm Salma, a Master's Student studying Computer Science at UCLA!
 
 Currently interested in:
 - Windows internals and reverse engineering
