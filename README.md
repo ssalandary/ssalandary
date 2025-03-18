@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Salma, a senior studying Computer Science at UCLA!
+I'm Salma, a Master's Sutdent studying Computer Science at UCLA!
 
 Currently interested in:
 - Windows internals and reverse engineering
@@ -13,6 +13,5 @@ More about me:
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> LinkedIn: https://www.linkedin.com/in/salma-alandary/
 - <img src="https://pbs.twimg.com/profile_images/2189766987/ctftime-logo-avatar_400x400.png" width=20px /> CTFtime: https://ctftime.org/user/145716
 - 😄 Pronouns: she/her
-- ⚡ Fun Fact: I produce music on the side
 
 Profile Picture: [Mandy](https://ummmmandy.tumblr.com/)
